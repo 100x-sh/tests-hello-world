@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-tests",
+  "version": "1.0.0",
+  "description": "Test suite for hello-world spec",
+  "scripts": {
+    "test": "jest --forceExit --detectOpenHandles"
+  },
+  "devDependencies": {
+    "axios": "^1.6.0",
+    "jest": "^29.7.0"
+  }
+}

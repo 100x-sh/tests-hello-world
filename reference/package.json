@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-reference",
+  "version": "1.0.0",
+  "description": "Reference implementation for hello-world spec",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
